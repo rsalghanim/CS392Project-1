@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang=""en>
 
@@ -9,14 +9,22 @@
 <title>edible - food text classification system </title>
 
 </head>
+<style>
 
+	#output1 {
 
+		float:right;
+		margin:0 auto;
 
-<body background="6.jpg">
+	}
+
+</style>
+
+<body bgcolor="#f2f3f4">
 
 	
 
-	<br/> 	<p align="right" ><img src="C:\Users\Admin\Desktop\New folder (2)\99.png" width="=100" height="100"></p>
+	<br/> 	<p align="right" ><img src="C:\Users\Admin\Documents\GitHub\CS392Project\99.png" width="=100" height="100"></p>
 
 
 
@@ -24,7 +32,7 @@
 
 	<h1 align="center">
 
-		<font face="lato" color="#017bf5" size="7">
+		<font face="" color="#a2d9ce" size="7">
 
 			Edible
 
@@ -34,9 +42,9 @@
 
 	<h3 align="center">
 
-		<font face="lato" color="#000" size="4" >
+		<font face="calibri" color=" #85929e " size="2" >
 
-			do you have any concerns related to food ?or have you ever thought about what shold be first milk or tea ?<br>you'll get the answer ! using Edible
+			do you have any concerns related to food ? or have you ever thought about what shold be first milk or tea ?<br>you'll get the answer ! using Edible
 
 		</font>
 
@@ -48,20 +56,20 @@
 
 	<form action="/fasttext">
 
-	<br/> <br/><br/><br/><br/>
-
 	
-
-
-
 	<p align="center"> Enter your text to be classified<br>
 
 	<input type="text" name="statement">
 
-	<input type="submit" id="btn" value="Submit"> </p>
+	<input type="submit" id="btn" value="Submit">
+	<input type="reset" id="btn" value="Clear">
+<br></br>
+</p>
+<p align="right" id="output1"> 
+	<div align="center" style="width:400px;height:100px;border:1px solid rgb(1, 94, 90);" >--Classified Text--
+	</div>
 
-	<p class="output" id="output1"></p>
-
+</p>
 </form> 
 
 
