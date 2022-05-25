@@ -1,7 +1,6 @@
 
 
-# v.0.2.0 Release
-in this release, the GUI is updated, and the system is functioning quite a bit.
+
 
 # Task 2
 in this task, We set up the webpage to run in a local host(port:8000). In order to run the system .
@@ -17,4 +16,9 @@ and see the result
 ![Screenshot (421)](https://user-images.githubusercontent.com/103973138/170169293-4bf3e759-30e1-4ce8-a968-ed43c20901ce.png)
 ![Screenshot (422)](https://user-images.githubusercontent.com/103973138/170169470-94d1c011-4e56-4387-aa8e-eb37e56be3d9.png)
 
+# v.0.2.0 Release
+afetr https://github.com/rsalghanim has tested the system using Travis ci, the system is ready to be released.
 
+in this release, the GUI is updated, and the system is functioning quite a bit.
+
+![Screenshot (423)](https://user-images.githubusercontent.com/103973138/170171258-8be7e8cc-e454-4618-8711-68184280723b.png)
