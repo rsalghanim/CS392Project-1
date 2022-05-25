@@ -1,5 +1,4 @@
-# CS392Project
-developing food text classification system
+
 # Alternative Project
 in this project, we are working on developing a web-based machine learning system for simple food text classification.
 
