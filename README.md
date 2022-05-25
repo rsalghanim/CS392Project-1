@@ -22,3 +22,5 @@ afetr https://github.com/rsalghanim has tested the system using Travis ci, the s
 in this release, the GUI is updated, and the system is functioning quite a bit.
 
 ![Screenshot (423)](https://user-images.githubusercontent.com/103973138/170171258-8be7e8cc-e454-4618-8711-68184280723b.png)
+
+@rsalghanim
