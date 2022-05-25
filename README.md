@@ -19,8 +19,7 @@ and see the result
 # v.0.2.0 Release
 afetr https://github.com/rsalghanim has tested the system using Travis ci, the system is ready to be released.
 
-in this release, the GUI is updated, and the system is functioning quite a bit.
 
 ![Screenshot (423)](https://user-images.githubusercontent.com/103973138/170171258-8be7e8cc-e454-4618-8711-68184280723b.png)
 
-@rsalghanim
+
