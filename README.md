@@ -14,5 +14,5 @@ in this project, we are working on developing a web-based machine learning syste
 #### NAME: Raghad Alghanim / ID: 440022172 / Email: rsaalghanim72@sm.imamu.edu.sa
 #### NAME: Rania / ID:  / Email: 
 #### NAME: Nada Alkharji   / ID: 440020563 / Email: 
-#### NAME: Alanoud Almosa	 / ID: 440019237 / Email: 
+#### NAME: Alanoud Almosa	 / ID: 440019237 / Email: aamalmousa37@sm.imamu.edu.sa
 
